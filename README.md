@@ -1,6 +1,3 @@
-# FileCompressor
-For a README file that clearly explains your File Compressor project, you can structure it with a brief introduction, features, installation instructions, usage guide, and dependencies. Here’s a template based on the project code and functionality you've provided:
-
 ---
 
 # File Compressor
